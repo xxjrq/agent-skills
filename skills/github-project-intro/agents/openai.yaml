@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 单仓库视频"
+  short_description: "从入库、真实录屏到 Remotion 五文件发布包的统一编排"
+  default_prompt: "Use $github-project-intro to produce one GitHub repository video through every required gate."
